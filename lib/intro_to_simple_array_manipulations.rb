@@ -21,7 +21,6 @@ artists.uniq
 
 artists.flatten
 
-artists(new_artist)
 artists.delete
 
 artists.delete(3)
