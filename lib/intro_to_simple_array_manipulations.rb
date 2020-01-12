@@ -7,15 +7,15 @@ artists.unshift(new_artist)
 
 artists.pop
 
-artists.pop[-1,-2]
+artists.pop(-1,-2)
 
 artists.shift
 
-artists.shift[0,1]
+artists.shift(0,1)
 
 artists.concat 
 
-artists.insert[3]
+artists.insert(3)
 
 artists.uniq
 
