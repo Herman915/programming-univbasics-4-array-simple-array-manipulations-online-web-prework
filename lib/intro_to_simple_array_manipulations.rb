@@ -1,6 +1,6 @@
 artists = ["Hozier","Ariana Grande","Usher"]
 next_artist = "Beyonce"
-artist.push(next_artist)
+artists.push(next_artist)
 
 new_artist = "Bruno Mars"
 artists.unshift(new_artist)
