@@ -11,7 +11,7 @@ artists.pop(1)
 
 artists.shift
 
-artists.shift(0..1)
+artists.shift(1)
 
 artists.concat 
 
