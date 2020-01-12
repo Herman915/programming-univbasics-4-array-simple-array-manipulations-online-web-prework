@@ -7,7 +7,7 @@ artists.unshift(new_artist)
 
 artists.pop
 
-artists.pop(-1)
+artists.pop(artists[-1])
 
 artists.shift
 
